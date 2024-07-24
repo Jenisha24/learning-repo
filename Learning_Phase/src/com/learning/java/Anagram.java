@@ -7,7 +7,7 @@ public class Anagram {
 
 	public static void main(String[] args) {
 		ArrayList<String> arrayList = new ArrayList<String>();
-		arrayList.add("cate");
+		arrayList.add("cat");
 		arrayList.add("dog");
 		arrayList.add("tac");
 		arrayList.add("god");
